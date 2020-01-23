@@ -2,6 +2,7 @@
 This  project contains key codes for our paper "Static interface profiles for contact lines on an elastic membrane".
 
 Files: main.m reshape_droplet.m update_membrane.m move_contactline.m.
+
 Above four parts are combined to be the whole key code for our project.
 
 main.m sets initial parameters of the numerical model and gives the whole structure of the numerical method.
