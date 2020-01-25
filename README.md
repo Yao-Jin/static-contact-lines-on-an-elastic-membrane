@@ -12,3 +12,7 @@ reshape_droplet.m is the function to compute the location of the current droplet
 update_membrane.m is the function to form and solve the main linear system in our numerical method to update the configuration of the current membrane.
 
 move_contactline.m is the function to update the contact line position along the membrane.
+
+Data for the hydrophilic case, please refer to https://github.com/Yao-Jin/contact-lines-on-an-elastic-membrane/tree/data_hydrophilic.
+
+Data for the hydropobic case, please refer to 
