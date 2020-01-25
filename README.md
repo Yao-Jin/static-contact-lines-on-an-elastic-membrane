@@ -16,3 +16,5 @@ move_contactline.m is the function to update the contact line position along the
 Data for the hydrophilic case, please refer to https://github.com/Yao-Jin/contact-lines-on-an-elastic-membrane/tree/data_hydrophilic.
 
 Data for the hydrophobic case, please refer to https://github.com/Yao-Jin/contact-lines-on-an-elastic-membrane/tree/data_hydrophobic.
+
+draw_angles_gamma1_0_5.m, draw_angles_gamma1_1_5.m, draw_result.m are programs to produce those figures in the paper.
