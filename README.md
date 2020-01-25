@@ -12,3 +12,5 @@ This  project contains key codes for our paper **"Static interface profiles for 
 **move_contactline.m** is the function to update the contact line position along the membrane.
 
 Folder **data** contains all data used to produce **Figure 3-5** in our paper, please refer to the folder for details.
+
+Folder **tools** contains programs using data to produce figures.
