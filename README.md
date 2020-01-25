@@ -1,5 +1,5 @@
 # contact-lines-on-an-elastic-membrane
-This  project contains key codes for our paper "Static interface profiles for contact lines on an elastic membrane".
+This  project contains key codes for our paper **"Static interface profiles for contact lines on an elastic membrane"**.
 
  Folder **key_codes** contains four matlab files combined to be the whole code for our project: **main.m reshape_droplet.m update_membrane.m move_contactline.m**.
 
