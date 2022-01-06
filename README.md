@@ -1,4 +1,4 @@
-# contact-lines-on-an-elastic-membrane
+# static-contact-lines-on-an-elastic-membrane
 This website provides the codes and data for the paper  **"Static interface profiles for contact lines on an elastic membrane"**.
 
 The folder **codes** contains the MATLAB functions/scripts for the numerical method proposed in the paper:
